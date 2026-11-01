@@ -25,7 +25,7 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/Hazehacker)
+![GitHub Contribution Graph](https://ghchart.rshah.org/Hazenix)
 
 ---
 
@@ -36,7 +36,7 @@
   <a href="mailto:L3542495583@outlook.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" alt="Email" />
   </a>
-  <a href="https://github.com/Hazehacker">
+  <a href="https://github.com/Hazenix">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/hazenix56591">
