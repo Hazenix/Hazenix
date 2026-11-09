@@ -12,7 +12,7 @@
 
 </div>
 
-- Backend Engineer focused on Java & Cloud Native. Exploring golang.
+- Backend Engineer focused on Java & Cloud Native. Exploring system architecture and Agent Infra.
 
 - Studying **Software Engineering** at Central South University(2024-2028)
   - Minister of Network Technology, Zhixin Hall, Central South University (2025–2026)
