@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/MciG-ggg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=Passionate+about+Java+and+Go;Always+learning+%F0%9F%9A%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00ff88&center=true&vCenter=true&width=600&lines=Passionate+about+Java+and+Go;Always+learning+%F0%9F%9A%80;OpenSource Enthusiast" alt="Typing SVG">
   </a>
 </p>
 
