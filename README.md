@@ -3,7 +3,7 @@
 # Hi, I'm Hazenix 👋
 
 <p align="center">
-  <a href="https://github.com/MciG-ggg">
+  <a href="https://github.com/Hazenix">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=500&amp;color=00ff88&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Passionate+about+Java+and+Go;Always+learning+%F0%9F%9A%80;OpenSource+Enthusiast" alt="Typing SVG">
   </a>
 </p>
