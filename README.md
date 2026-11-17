@@ -23,6 +23,50 @@
 
 ---
 
+<details open>
+<summary><strong>Featured Open Source Contributions</strong></summary>
+
+<p><strong>4 merged PRs across 4 open source projects.</strong></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a> · 1 merged PR</strong>
+      <br><br>
+      Added conversation forks from completed messages so users can explore another path while keeping the original history and attachments.
+      <br><br>
+      <a href="https://github.com/milind-soni/OpenMausBot/pull/5070">View PR #5070 →</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/wechatsync/Wechatsync">Wechatsync</a> · 1 merged PR</strong>
+      <br><br>
+      Added Markdown draft sync for Alibaba Cloud Developer Community, including image uploads and a link to edit the new draft.
+      <br><br>
+      <a href="https://github.com/wechatsync/Wechatsync/pull/238">View PR #238 →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/barkure/CSU-Net-Portal">CSU-Net-Portal</a> · 1 merged PR</strong>
+      <br><br>
+      Clarified campus network login results, fixed URL encoding for credentials in Shell and OpenWrt, and added log rotation for Node.js.
+      <br><br>
+      <a href="https://github.com/barkure/CSU-Net-Portal/pull/12">View PR #12 →</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/Snailclimb/JavaGuide">JavaGuide</a> · 1 merged PR</strong>
+      <br><br>
+      Fixed formatting in the distributed ID guide.
+      <br><br>
+      <a href="https://github.com/Snailclimb/JavaGuide/pull/2787">View PR #2787 →</a>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Hazenix)
