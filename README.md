@@ -18,8 +18,23 @@
   - Minister of Network Technology, Zhixin Hall, Central South University (2025–2026)
   - Member of the Cyberspace Affairs Department, Central South University Youth League Committee ([54shenghua](https://github.com/54shenghua))
   - Member of Network Department, Yunlugu Information Technology Center, Central South University
-- Current Intern @XiaoHongshu , Ex-intern @ByteDance(ByteCloud)  @Gapasea
 - Personal Website：https://blog.hazenix.top
+
+---
+
+## Work Experience
+
+**Xiaohongshu** · International Search & Agents\
+*Backend Engineering Intern · Oct 2026 – Present*\
+Building AI search APIs and improving how agents handle long conversations on the international web product.
+
+**ByteDance** · ByteCloud Agent Infrastructure\
+*Backend Engineering Intern · Jun – Sep 2026*\
+Built LLM call tracing and enabled agents to resume existing conversations after sandbox suspension.
+
+**Gapasea** · Marketing Platform\
+*Full-Stack Engineering Intern · Apr – Jun 2026*\
+Built an end-to-end workflow for creator discovery using social keyword analysis and AI-powered comment classification.
 
 ---
 
