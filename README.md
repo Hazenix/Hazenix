@@ -31,14 +31,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a> · 1 merged PR</strong>
+      <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a></strong>&nbsp;
+      <a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenMausBot GitHub stars" height="18"></a>
       <br><br>
       Added conversation forks from completed messages so users can explore another path while keeping the original history and attachments.
       <br><br>
       <a href="https://github.com/milind-soni/OpenMausBot/pull/5070">View PR #5070 →</a>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/wechatsync/Wechatsync">Wechatsync</a> · 1 merged PR</strong>
+      <strong><a href="https://github.com/wechatsync/Wechatsync">Wechatsync</a></strong>&nbsp;
+      <a href="https://github.com/wechatsync/Wechatsync/stargazers"><img src="https://img.shields.io/github/stars/wechatsync/Wechatsync?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="Wechatsync GitHub stars" height="18"></a>
       <br><br>
       Added Markdown draft sync for Alibaba Cloud Developer Community, including image uploads and a link to edit the new draft.
       <br><br>
@@ -47,14 +49,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/barkure/CSU-Net-Portal">CSU-Net-Portal</a> · 1 merged PR</strong>
+      <strong><a href="https://github.com/barkure/CSU-Net-Portal">CSU-Net-Portal</a></strong>&nbsp;
+      <a href="https://github.com/barkure/CSU-Net-Portal/stargazers"><img src="https://img.shields.io/github/stars/barkure/CSU-Net-Portal?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="CSU-Net-Portal GitHub stars" height="18"></a>
       <br><br>
       Clarified campus network login results, fixed URL encoding for credentials in Shell and OpenWrt, and added log rotation for Node.js.
       <br><br>
       <a href="https://github.com/barkure/CSU-Net-Portal/pull/12">View PR #12 →</a>
     </td>
     <td width="50%" valign="top">
-      <strong><a href="https://github.com/Snailclimb/JavaGuide">JavaGuide</a> · 1 merged PR</strong>
+      <strong><a href="https://github.com/Snailclimb/JavaGuide">JavaGuide</a></strong>&nbsp;
+      <a href="https://github.com/Snailclimb/JavaGuide/stargazers"><img src="https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="JavaGuide GitHub stars" height="18"></a>
       <br><br>
       Fixed formatting in the distributed ID guide.
       <br><br>
