@@ -38,7 +38,7 @@
 <details open>
 <summary><strong>Featured Open Source Contributions</strong></summary>
 
-<p><strong>4 merged PRs across 4 open source projects.</strong></p>
+<p><strong>6 merged PRs across 5 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -46,10 +46,20 @@
       <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a></strong>&nbsp;
       <a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenMausBot GitHub stars" height="18"></a>
       <br><br>
-      Added conversation forks from completed messages so users can explore another path while keeping the original history and attachments.
+      Added conversation forks with preserved history and attachments. Optimized older-message pagination with cursor-based, bounded reads.
       <br><br>
-      <a href="https://github.com/milind-soni/OpenMausBot/pull/5070">View PR #5070 →</a>
+      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 2 merged PRs →</a>
     </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/humanfia/humanize">humanize</a></strong>&nbsp;
+      <a href="https://github.com/humanfia/humanize/stargazers"><img src="https://img.shields.io/github/stars/humanfia/humanize?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="humanize GitHub stars" height="18"></a>
+      <br><br>
+      Improved agent configuration diagnostics by distinguishing unknown CLIs from missing models, with actionable errors, matching documentation, and regression coverage.
+      <br><br>
+      <a href="https://github.com/humanfia/humanize/pull/550">View PR #550 →</a>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/wechatsync/Wechatsync">Wechatsync</a></strong>&nbsp;
       <a href="https://github.com/wechatsync/Wechatsync/stargazers"><img src="https://img.shields.io/github/stars/wechatsync/Wechatsync?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="Wechatsync GitHub stars" height="18"></a>
@@ -58,8 +68,6 @@
       <br><br>
       <a href="https://github.com/wechatsync/Wechatsync/pull/238">View PR #238 →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/barkure/CSU-Net-Portal">CSU-Net-Portal</a></strong>&nbsp;
       <a href="https://github.com/barkure/CSU-Net-Portal/stargazers"><img src="https://img.shields.io/github/stars/barkure/CSU-Net-Portal?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="CSU-Net-Portal GitHub stars" height="18"></a>
@@ -68,7 +76,9 @@
       <br><br>
       <a href="https://github.com/barkure/CSU-Net-Portal/pull/12">View PR #12 →</a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <strong><a href="https://github.com/Snailclimb/JavaGuide">JavaGuide</a></strong>&nbsp;
       <a href="https://github.com/Snailclimb/JavaGuide/stargazers"><img src="https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="JavaGuide GitHub stars" height="18"></a>
       <br><br>
