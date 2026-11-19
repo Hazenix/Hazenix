@@ -25,13 +25,13 @@
 ## Work Experience
 
 **Xiaohongshu** · International Search & Agents\
-*Backend Engineering Intern · Oct 2026 – Present*
+*Backend Engineering Intern*
 
 **ByteDance** · ByteCloud Agent Infrastructure\
-*Backend Engineering Intern · Jun – Sep 2026*
+*Backend Engineering Intern*
 
 **Gapasea** · Marketing Platform\
-*Full-Stack Engineering Intern · Apr – Jun 2026*
+*Full-Stack Engineering Intern*
 
 ---
 
