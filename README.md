@@ -77,16 +77,6 @@
       <a href="https://github.com/barkure/CSU-Net-Portal/pull/12">View PR #12 →</a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <strong><a href="https://github.com/Snailclimb/JavaGuide">JavaGuide</a></strong>&nbsp;
-      <a href="https://github.com/Snailclimb/JavaGuide/stargazers"><img src="https://img.shields.io/github/stars/Snailclimb/JavaGuide?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="JavaGuide GitHub stars" height="18"></a>
-      <br><br>
-      Fixed formatting in the distributed ID guide.
-      <br><br>
-      <a href="https://github.com/Snailclimb/JavaGuide/pull/2787">View PR #2787 →</a>
-    </td>
-  </tr>
 </table>
 
 </details>
