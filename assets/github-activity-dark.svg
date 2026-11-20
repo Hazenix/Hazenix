@@ -1,0 +1,671 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Insights for @Hazenix and annual contribution calendar" width="850" height="718" viewBox="0 0 850 718">
+  <title>GitHub Insights for @Hazenix</title>
+  <desc>1285 contributions in the last year, 290 stars, 15 day streak. Rank B+.</desc>
+  <style>
+    .mi-name { animation: mi-nameIn 0.9s ease-out both; }
+    .mi-underline { animation: mi-barX 0.9s ease-out 0.3s both; transform-box: fill-box; }
+    .mi-underline-center { transform-origin: center; }
+    .mi-underline-left { transform-origin: left center; }
+    .mi-meta { animation: mi-fadeUp 0.9s ease-out 0.5s both; }
+    .mi-card { animation: mi-fade 0.7s ease-out both; }
+    .mi-d1 { animation-delay: 0.15s; }
+    .mi-d2 { animation-delay: 0.25s; }
+    .mi-d3 { animation-delay: 0.35s; }
+    .mi-d4 { animation-delay: 0.45s; }
+    .mi-chart { animation: mi-fade 1.1s ease-in-out 0.4s both; }
+    .mi-bar { animation: mi-barX 1s ease-out 0.5s both; transform-box: fill-box; transform-origin: left center; }
+    @keyframes mi-nameIn { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; transform: translateY(0); } }
+    @keyframes mi-fadeUp { 0% { opacity: 0; transform: translateY(8px); } 100% { opacity: 1; transform: translateY(0); } }
+    @keyframes mi-fade { 0% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes mi-barX { 0% { transform: scaleX(0); } 100% { transform: scaleX(1); } }
+    @media (prefers-reduced-motion: reduce) {
+      .mi-name, .mi-underline, .mi-meta, .mi-card, .mi-chart, .mi-bar { animation: none; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="cardBg-1g44tk" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:0.92" />
+    </linearGradient>
+    <linearGradient id="border-1g44tk" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#58a6ff" />
+      <stop offset="50%" style="stop-color:#3fb950" />
+      <stop offset="100%" style="stop-color:#58a6ff" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="848" height="716" rx="15" fill="url(#cardBg-1g44tk)" stroke="url(#border-1g44tk)" stroke-width="2" />
+  <g transform="translate(0, 36)">
+    <g transform="translate(285, 0)">
+      <text x="140" y="-8" text-anchor="middle" font-size="12" font-weight="600" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
+          Monthly Contributions (Last 12 Months)
+        </text>
+      <line x1="0" y1="0" x2="280" y2="0" stroke="#30363d" stroke-width="1" stroke-dasharray="4,3" opacity="0.35" />
+      <line x1="0" y1="45" x2="280" y2="45" stroke="#30363d" stroke-width="1" stroke-dasharray="4,3" opacity="0.35" />
+      <line x1="0" y1="90" x2="280" y2="90" stroke="#30363d" stroke-width="1" opacity="0.6" />
+      <g transform="translate(290, 0)">
+        <text y="10" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">165</text>
+        <text y="49" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">83</text>
+        <text y="90" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">0</text>
+      </g>
+      <defs>
+        <linearGradient id="headerArea-1g44tk" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0.5" />
+          <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.05" />
+        </linearGradient>
+      </defs>
+      <path d="M 0 90 L 0 55.5 L 25.5 35 L 50.9 62.3 L 76.4 26.8 L 101.8 15 L 127.3 21.8 L 152.7 40 L 178.2 48.6 L 203.6 35.5 L 229.1 72.3 L 254.5 66.4 L 280 17.3 L 280 90 Z" fill="url(#headerArea-1g44tk)" />
+      <path class="mi-chart" d="M 0 55.5 L 25.5 35 L 50.9 62.3 L 76.4 26.8 L 101.8 15 L 127.3 21.8 L 152.7 40 L 178.2 48.6 L 203.6 35.5 L 229.1 72.3 L 254.5 66.4 L 280 17.3" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="0" cy="55.5" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="25.5" cy="35" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="50.9" cy="62.3" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="76.4" cy="26.8" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="101.8" cy="15" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="127.3" cy="21.8" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="152.7" cy="40" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="178.2" cy="48.6" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="203.6" cy="35.5" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="229.1" cy="72.3" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="254.5" cy="66.4" r="3" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <circle cx="280" cy="17.3" r="4.5" fill="#58a6ff" stroke="#161b22" stroke-width="1.5" />
+      <g transform="translate(0, 104)">
+        <text x="0" y="0" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">Dec '25</text>
+        <text x="101.8" y="0" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">Apr '26</text>
+        <text x="203.6" y="0" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">Aug '26</text>
+        <text x="280" y="0" font-size="9" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">Nov '26</text>
+      </g>
+    </g>
+  </g>
+  <g class="mi-card mi-d1" transform="translate(40, 169)">
+    <rect x="0" y="0" width="377" height="200" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <g transform="translate(24, 24)">
+      <g transform="translate(0, -1) scale(1.125)">
+        <path fill="#58a6ff" d="M6 2a.75.75 0 0 1 .696.471L10 10.731l1.304-3.26A.751.751 0 0 1 12 7h3.25a.75.75 0 0 1 0 1.5h-2.742l-1.812 4.528a.751.751 0 0 1-1.392 0L6 4.770 4.696 8.029A.75.75 0 0 1 4 8.5H.75a.75.75 0 0 1 0-1.5h2.742l1.812-4.529A.751.751 0 0 1 6 2Z" />
+      </g>
+      <text x="28" y="14" font-size="16" font-weight="600" fill="#58a6ff" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">GitHub Stats</text>
+    </g>
+    <rect class="mi-underline mi-underline-left" x="24" y="48" width="72" height="2" rx="1" fill="#58a6ff" opacity="0.7" />
+    <g transform="translate(24, 64)">
+      <g transform="translate(0, 0)">
+        <title>Total Stars Earned: 290</title>
+        <g transform="translate(0, 0) scale(1)">
+          <path fill="#fbbf24" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z" />
+        </g>
+        <text x="26" y="12" font-size="13" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Total Stars Earned</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">290</text>
+      </g>
+      <g transform="translate(0, 27)">
+        <title>Contributions (12mo): 1,285</title>
+        <g transform="translate(0, 0) scale(1)">
+          <path fill="#34d399" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" />
+        </g>
+        <text x="26" y="12" font-size="13" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Contributions (12mo)</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1,285</text>
+      </g>
+      <g transform="translate(0, 54)">
+        <title>Pull Requests (12mo): 25</title>
+        <g transform="translate(0, 0) scale(1)">
+          <path fill="#a78bfa" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z" />
+        </g>
+        <text x="26" y="12" font-size="13" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Pull Requests (12mo)</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">25</text>
+      </g>
+      <g transform="translate(0, 81)">
+        <title>Issues (12mo): 12</title>
+        <g transform="translate(0, 0) scale(1)">
+          <path fill="#f472b6" d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z" />
+        </g>
+        <text x="26" y="12" font-size="13" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Issues (12mo)</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">12</text>
+      </g>
+      <g transform="translate(0, 108)">
+        <title>Contributed To (12mo): 38</title>
+        <g transform="translate(0, 0) scale(1)">
+          <path fill="#60a5fa" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z" />
+        </g>
+        <text x="26" y="12" font-size="13" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Contributed To (12mo)</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">38</text>
+      </g>
+    </g>
+    <g transform="translate(290, 58)">
+      <circle cx="36" cy="36" r="40" fill="#0d1117" stroke="#60a5fa" stroke-width="2.5" />
+      <circle cx="36" cy="36" r="32" fill="#60a5fa" opacity="0.12" />
+      <text x="36" y="44" text-anchor="middle" font-size="26" font-weight="700" fill="#60a5fa" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.5">B+</text>
+    </g>
+    <g transform="translate(296, 146)">
+      <rect x="0" y="0" width="60" height="20" rx="6" fill="#0d1117" stroke="#30363d" stroke-width="1" stroke-opacity="0.6" />
+      <text x="30" y="14" text-anchor="middle" font-size="10" font-weight="600" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.5">RANK</text>
+    </g>
+  </g>
+  <g class="mi-card mi-d2" transform="translate(433, 169)">
+    <rect x="0" y="0" width="377" height="200" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+    <g transform="translate(24, 24)">
+      <g transform="translate(0, -1) scale(1.125)">
+        <path fill="#58a6ff" d="M4.72 3.22a.75.75 0 0 1 1.06 1.06L2.06 8l3.72 3.72a.75.75 0 1 1-1.06 1.06L.47 8.53a.75.75 0 0 1 0-1.06Zm6.56 0a.75.75 0 1 0-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 1 0 1.06 1.06l4.25-4.25a.75.75 0 0 0 0-1.06Z" />
+      </g>
+      <text x="28" y="14" font-size="16" font-weight="600" fill="#58a6ff" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Most Used Languages</text>
+    </g>
+    <rect class="mi-underline mi-underline-left" x="24" y="48" width="72" height="2" rx="1" fill="#58a6ff" opacity="0.7" />
+    <g transform="translate(24, 64)">
+      <defs>
+        <clipPath id="langBar-1g44tk">
+          <rect x="0" y="0" width="329" height="12" rx="6" />
+        </clipPath>
+      </defs>
+      <rect x="0" y="0" width="329" height="12" rx="6" fill="#0d1117" />
+      <g class="mi-bar" clip-path="url(#langBar-1g44tk)">
+        <rect x="0" y="0" width="125" height="12" fill="#41b883" stroke="#161b22" stroke-width="1.5" />
+        <rect x="125" y="0" width="97.2" height="12" fill="#b07219" stroke="#161b22" stroke-width="1.5" />
+        <rect x="222.2" y="0" width="29.3" height="12" fill="#f1e05a" stroke="#161b22" stroke-width="1.5" />
+        <rect x="251.4" y="0" width="26.3" height="12" fill="#3572A5" stroke="#161b22" stroke-width="1.5" />
+        <rect x="277.7" y="0" width="21.1" height="12" fill="#e34c26" stroke="#161b22" stroke-width="1.5" />
+        <rect x="298.8" y="0" width="17.9" height="12" fill="#3178c6" stroke="#161b22" stroke-width="1.5" />
+        <rect x="316.7" y="0" width="6.5" height="12" fill="#c6538c" stroke="#161b22" stroke-width="1.5" />
+        <rect x="323.2" y="0" width="5.8" height="12" fill="#dea584" stroke="#161b22" stroke-width="1.5" />
+      </g>
+    </g>
+    <g transform="translate(24, 92)">
+      <g transform="translate(0, 0)">
+        <title>Vue 36.8%</title>
+        <circle cx="6" cy="7" r="5" fill="#41b883" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Vue</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">36.8%</text>
+      </g>
+      <g transform="translate(0, 27)">
+        <title>JavaScript 8.6%</title>
+        <circle cx="6" cy="7" r="5" fill="#f1e05a" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">JavaScript</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">8.6%</text>
+      </g>
+      <g transform="translate(0, 54)">
+        <title>HTML 6.2%</title>
+        <circle cx="6" cy="7" r="5" fill="#e34c26" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">HTML</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">6.2%</text>
+      </g>
+      <g transform="translate(0, 81)">
+        <title>SCSS 1.9%</title>
+        <circle cx="6" cy="7" r="5" fill="#c6538c" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">SCSS</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1.9%</text>
+      </g>
+      <g transform="translate(175, 0)">
+        <title>Java 28.6%</title>
+        <circle cx="6" cy="7" r="5" fill="#b07219" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Java</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">28.6%</text>
+      </g>
+      <g transform="translate(175, 27)">
+        <title>Python 7.7%</title>
+        <circle cx="6" cy="7" r="5" fill="#3572A5" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Python</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">7.7%</text>
+      </g>
+      <g transform="translate(175, 54)">
+        <title>TypeScript 5.3%</title>
+        <circle cx="6" cy="7" r="5" fill="#3178c6" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">TypeScript</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">5.3%</text>
+      </g>
+      <g transform="translate(175, 81)">
+        <title>Rust 1.7%</title>
+        <circle cx="6" cy="7" r="5" fill="#dea584" />
+        <text x="20" y="11" font-size="12" font-weight="500" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Rust</text>
+        <text x="155" y="11" font-size="12" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1.7%</text>
+      </g>
+    </g>
+  </g>
+  <g class="mi-card mi-d3" transform="translate(40, 390)">
+    <g transform="translate(0, 0)">
+      <title>Total contributions: 1,373</title>
+      <rect x="0" y="0" width="246" height="140" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" stroke-opacity="0.85" />
+      <rect x="105" y="14" width="36" height="36" rx="10" fill="#58a6ff" opacity="0.12" />
+      <g transform="translate(123, 24)">
+        <g transform="translate(-10, 0) scale(1.25)">
+          <path fill="#58a6ff" d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.28 3.22a.75.75 0 00-1.06 1.06L6.19 7.25H.75a.75.75 0 000 1.5h5.44L3.22 11.72a.75.75 0 101.06 1.06L7 10.06v5.19a.75.75 0 001.5 0v-5.19l2.72 2.72a.75.75 0 101.06-1.06l-2.72-2.72h5.19a.75.75 0 000-1.5h-5.19l2.72-2.72a.75.75 0 00-1.06-1.06L8.5 5.94V.75z" />
+        </g>
+      </g>
+      <text x="123" y="74" text-anchor="middle" font-size="26" font-weight="700" fill="#58a6ff" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
+          1,373
+        </text>
+      <text x="123" y="98" text-anchor="middle" font-size="12" font-weight="600" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
+          Total Contributions
+        </text>
+      <text x="123" y="118" text-anchor="middle" font-size="10" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" opacity="0.75" letter-spacing="0.2">
+          Oct 31, 2024 - Present
+        </text>
+    </g>
+    <g transform="translate(262, 0)">
+      <title>Current streak: 15 days</title>
+      <rect x="0" y="0" width="246" height="140" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" stroke-opacity="0.85" />
+      <g transform="translate(123, 58)">
+        <circle cx="0" cy="0" r="32" fill="none" stroke="#30363d" stroke-width="5" opacity="0.3" />
+        <circle cx="0" cy="0" r="32" fill="none" stroke="#58a6ff" stroke-width="5" stroke-dasharray="201.1" stroke-dashoffset="100.5" transform="rotate(-90)" stroke-linecap="round" />
+        <g transform="translate(-10, -42)">
+          <g transform="translate(0, 0) scale(1.25)">
+            <path fill="#ff6b35" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 01-1.436-.874A3.198 3.198 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z" />
+          </g>
+        </g>
+        <text x="0" y="8" text-anchor="middle" font-size="22" font-weight="700" fill="#c9d1d9" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
+            15
+          </text>
+      </g>
+      <text x="123" y="108" text-anchor="middle" font-size="12" font-weight="600" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
+          Current Streak
+        </text>
+      <text x="123" y="126" text-anchor="middle" font-size="10" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" opacity="0.75" letter-spacing="0.2">
+          Nov 6 - Nov 20, 2026
+        </text>
+    </g>
+    <g transform="translate(524, 0)">
+      <title>Longest streak: 45 days</title>
+      <rect x="0" y="0" width="246" height="140" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" stroke-opacity="0.85" />
+      <rect x="105" y="14" width="36" height="36" rx="10" fill="#3fb950" opacity="0.12" />
+      <g transform="translate(123, 24)">
+        <g transform="translate(-10, 0) scale(1.25)">
+          <path fill="#3fb950" d="M3.217 6.962A3.501 3.501 0 0 1 6.5 3.5h3a3.5 3.5 0 0 1 3.283 3.462l1.1-.275a.75.75 0 0 1 .867.98l-.633 1.9a.75.75 0 0 1-.634.513l-1.483.148V11a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3v-.773l-1.483-.148a.75.75 0 0 1-.634-.513l-.633-1.9a.75.75 0 0 1 .867-.98ZM6.5 5a2 2 0 0 0-2 2v4a1.5 1.5 0 0 0 1.5 1.5h4A1.5 1.5 0 0 0 11.5 11V7a2 2 0 0 0-2-2Z" />
+        </g>
+      </g>
+      <text x="123" y="74" text-anchor="middle" font-size="26" font-weight="700" fill="#3fb950" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
+          45
+        </text>
+      <text x="123" y="98" text-anchor="middle" font-size="12" font-weight="600" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
+          Longest Streak
+        </text>
+      <text x="123" y="118" text-anchor="middle" font-size="10" fill="#8b949e" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" opacity="0.75" letter-spacing="0.2">
+          Dec 23, 2025 - Feb 5, 2026
+        </text>
+    </g>
+  </g>
+  <g transform="translate(40, 567) scale(1.161388)">
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-16" x="27" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-23" x="39" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-30" x="51" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-07" x="63" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-14" x="75" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-21" x="87" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-28" x="99" y="20" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-01-04" x="111" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-11" x="123" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-18" x="135" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-25" x="147" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-01" x="159" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-08" x="171" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-15" x="183" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-22" x="195" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-01" x="207" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-08" x="219" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-15" x="231" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-22" x="243" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-29" x="255" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-05" x="267" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-12" x="279" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-04-19" x="291" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-26" x="303" y="20" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-05-03" x="315" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-10" x="327" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-17" x="339" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-24" x="351" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-31" x="363" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-07" x="375" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-14" x="387" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-21" x="399" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-28" x="411" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-05" x="423" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-12" x="435" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-19" x="447" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-26" x="459" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-08-02" x="471" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-09" x="483" y="20" width="10" height="10" />
+    <rect style="fill:#196127;shape-rendering:crispedges;" data-score="4" data-date="2026-08-16" x="495" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-23" x="507" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-08-30" x="519" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-06" x="531" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-13" x="543" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-20" x="555" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-27" x="567" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-04" x="579" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-11" x="591" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-18" x="603" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-25" x="615" y="20" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-11-01" x="627" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-08" x="639" y="20" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-15" x="651" y="20" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-17" x="27" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-24" x="39" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-01" x="51" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-08" x="63" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-15" x="75" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-22" x="87" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-29" x="99" y="32" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-01-05" x="111" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-12" x="123" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-19" x="135" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-26" x="147" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-02" x="159" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-09" x="171" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-16" x="183" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-23" x="195" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-02" x="207" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-09" x="219" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-16" x="231" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-03-23" x="243" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-30" x="255" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-04-06" x="267" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-13" x="279" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-04-20" x="291" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-04-27" x="303" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-04" x="315" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-11" x="327" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-18" x="339" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-25" x="351" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-01" x="363" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-08" x="375" y="32" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-06-15" x="387" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-22" x="399" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-29" x="411" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-06" x="423" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-13" x="435" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-20" x="447" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-27" x="459" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-03" x="471" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-10" x="483" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-17" x="495" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-24" x="507" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-08-31" x="519" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-07" x="531" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-14" x="543" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-21" x="555" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-28" x="567" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-05" x="579" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-12" x="591" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-19" x="603" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-26" x="615" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-02" x="627" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-09" x="639" y="32" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-16" x="651" y="32" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-18" x="27" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-25" x="39" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-02" x="51" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-09" x="63" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-16" x="75" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-23" x="87" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-30" x="99" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-06" x="111" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-13" x="123" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-20" x="135" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-27" x="147" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-03" x="159" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-10" x="171" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-17" x="183" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-24" x="195" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-03" x="207" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-10" x="219" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-17" x="231" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-24" x="243" y="44" width="10" height="10" />
+    <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="3" data-date="2026-03-31" x="255" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-07" x="267" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-14" x="279" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-21" x="291" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-28" x="303" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-05" x="315" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-12" x="327" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-19" x="339" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-26" x="351" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-02" x="363" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-09" x="375" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-16" x="387" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-23" x="399" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-30" x="411" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-07" x="423" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-14" x="435" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-21" x="447" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-28" x="459" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-04" x="471" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-11" x="483" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-18" x="495" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-25" x="507" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-01" x="519" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-08" x="531" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-15" x="543" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-22" x="555" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-29" x="567" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-06" x="579" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-13" x="591" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-20" x="603" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-27" x="615" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-03" x="627" y="44" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-11-10" x="639" y="44" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-17" x="651" y="44" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-19" x="27" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-26" x="39" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-03" x="51" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-10" x="63" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-17" x="75" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-24" x="87" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-31" x="99" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-07" x="111" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-14" x="123" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-21" x="135" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-28" x="147" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-04" x="159" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-11" x="171" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-18" x="183" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-25" x="195" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-04" x="207" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-11" x="219" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-18" x="231" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-25" x="243" y="56" width="10" height="10" />
+    <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="3" data-date="2026-04-01" x="255" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-08" x="267" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-15" x="279" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-22" x="291" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-29" x="303" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-06" x="315" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-13" x="327" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-20" x="339" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-27" x="351" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-03" x="363" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-10" x="375" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-17" x="387" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-24" x="399" y="56" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-07-01" x="411" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-08" x="423" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-15" x="435" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-22" x="447" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-29" x="459" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-05" x="471" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-12" x="483" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-19" x="495" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-26" x="507" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-02" x="519" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-09" x="531" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-16" x="543" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-23" x="555" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-30" x="567" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-07" x="579" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-14" x="591" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-21" x="603" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-28" x="615" y="56" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-04" x="627" y="56" width="10" height="10" />
+    <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="3" data-date="2026-11-11" x="639" y="56" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-11-18" x="651" y="56" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-20" x="27" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-11-27" x="39" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-04" x="51" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-11" x="63" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-18" x="75" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-25" x="87" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-01" x="99" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-08" x="111" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-15" x="123" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-22" x="135" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-29" x="147" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-05" x="159" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-12" x="171" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-19" x="183" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-26" x="195" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-05" x="207" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-12" x="219" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-19" x="231" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-26" x="243" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-02" x="255" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-09" x="267" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-16" x="279" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-23" x="291" y="68" width="10" height="10" />
+    <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="3" data-date="2026-04-30" x="303" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-07" x="315" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-14" x="327" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-21" x="339" y="68" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-05-28" x="351" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-04" x="363" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-11" x="375" y="68" width="10" height="10" />
+    <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="3" data-date="2026-06-18" x="387" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-25" x="399" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-02" x="411" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-09" x="423" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-16" x="435" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-23" x="447" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-30" x="459" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-06" x="471" y="68" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-08-13" x="483" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-20" x="495" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-27" x="507" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-03" x="519" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-10" x="531" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-17" x="543" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-24" x="555" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-01" x="567" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-08" x="579" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-15" x="591" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-22" x="603" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-29" x="615" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-11-05" x="627" y="68" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-11-12" x="639" y="68" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-19" x="651" y="68" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-21" x="27" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-28" x="39" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-05" x="51" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-12" x="63" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-19" x="75" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-26" x="87" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-02" x="99" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-09" x="111" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-16" x="123" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-23" x="135" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-30" x="147" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-06" x="159" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-13" x="171" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-20" x="183" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-27" x="195" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-06" x="207" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-13" x="219" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-20" x="231" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-27" x="243" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-03" x="255" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-04-10" x="267" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-17" x="279" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-24" x="291" y="80" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-05-01" x="303" y="80" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-05-08" x="315" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-05-15" x="327" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-22" x="339" y="80" width="10" height="10" />
+    <rect style="fill:#239a3b;shape-rendering:crispedges;" data-score="3" data-date="2026-05-29" x="351" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-05" x="363" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-12" x="375" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-19" x="387" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-26" x="399" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-03" x="411" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-07-10" x="423" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-17" x="435" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-24" x="447" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-31" x="459" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-07" x="471" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-14" x="483" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-21" x="495" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-28" x="507" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-04" x="519" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-11" x="531" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-18" x="543" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-25" x="555" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-02" x="567" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-09" x="579" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-16" x="591" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-23" x="603" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-30" x="615" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-06" x="627" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-13" x="639" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-20" x="651" y="80" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-22" x="27" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-29" x="39" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-06" x="51" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-13" x="63" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-20" x="75" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-27" x="87" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-03" x="99" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-10" x="111" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-17" x="123" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-24" x="135" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-01-31" x="147" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-02-07" x="159" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-14" x="171" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-21" x="183" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-02-28" x="195" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-07" x="207" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-14" x="219" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-21" x="231" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-03-28" x="243" y="92" width="10" height="10" />
+    <rect style="fill:#196127;shape-rendering:crispedges;" data-score="4" data-date="2026-04-04" x="255" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-11" x="267" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-04-18" x="279" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-04-25" x="291" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-02" x="303" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-09" x="315" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-16" x="327" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-23" x="339" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-05-30" x="351" y="92" width="10" height="10" />
+    <rect style="fill:#7bc96f;shape-rendering:crispedges;" data-score="2" data-date="2026-06-06" x="363" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-13" x="375" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-06-20" x="387" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-06-27" x="399" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-04" x="411" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-11" x="423" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-18" x="435" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-07-25" x="447" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-01" x="459" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-08" x="471" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-15" x="483" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-08-22" x="495" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-08-29" x="507" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-05" x="519" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-12" x="531" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-09-19" x="543" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-09-26" x="555" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-03" x="567" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-10" x="579" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-17" x="591" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-10-24" x="603" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-10-31" x="615" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-07" x="627" y="92" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-14" x="639" y="92" width="10" height="10" />
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="28">Sun</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="40">Mon</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="52">Tue</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="64">Wed</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="77">Thu</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="89">Fri</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="101">Sat</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="27" y="10">Nov</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="63" y="10">Dec</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="111" y="10">Jan</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="159" y="10">Feb</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="207" y="10">Mar</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="267" y="10">Apr</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="315" y="10">May</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="375" y="10">Jun</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="423" y="10">Jul</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="471" y="10">Aug</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="531" y="10">Sep</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="579" y="10">Oct</text>
+    <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:10px;" x="627" y="10">Nov</text>
+  </g>
+</svg>
