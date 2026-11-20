@@ -85,6 +85,12 @@
 
 ## GitHub Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://yourinsights.vercel.app/api/insight?username=Hazenix&amp;theme=github_dark&amp;profile=false&amp;summary=false&amp;header=true&amp;stats=true&amp;languages=true&amp;streak=true&amp;graph=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://yourinsights.vercel.app/api/insight?username=Hazenix&amp;theme=github_light&amp;profile=false&amp;summary=false&amp;header=true&amp;stats=true&amp;languages=true&amp;streak=true&amp;graph=false">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Hazenix&amp;theme=github_light&amp;profile=false&amp;summary=false&amp;header=true&amp;stats=true&amp;languages=true&amp;streak=true&amp;graph=false" alt="Hazenix GitHub statistics, monthly contributions, top languages, and contribution streaks" width="850">
+</picture>
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Hazenix)
 
 ---
