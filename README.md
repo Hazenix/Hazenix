@@ -38,7 +38,7 @@
 <details open>
 <summary><strong>Featured Open Source Contributions</strong></summary>
 
-<p><strong>6 merged PRs across 5 open source projects.</strong></p>
+<p><strong>7 merged PRs across 5 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -46,9 +46,9 @@
       <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a></strong>&nbsp;
       <a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenMausBot GitHub stars" height="18"></a>
       <br><br>
-      Added conversation forks with preserved history and attachments. Optimized older-message pagination with cursor-based, bounded reads.
+      Added conversation forks that preserve history and attachments, optimized message history pagination, and kept automation question cards in sync after users continued a run as a regular chat.
       <br><br>
-      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 2 merged PRs →</a>
+      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 3 merged PRs →</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/humanfia/humanize">humanize</a></strong>&nbsp;
