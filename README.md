@@ -16,8 +16,6 @@
 
 - Studying **Software Engineering** at Central South University(2024-2028)
   - Minister of Network Technology, Zhixin Hall, Central South University (2025–2026)
-  - Member of the Cyberspace Affairs Department, Central South University Youth League Committee ([54shenghua](https://github.com/54shenghua))
-  - Member of Network Department, Yunlugu Information Technology Center, Central South University
 - Personal Website：https://blog.hazenix.top
 
 ---
