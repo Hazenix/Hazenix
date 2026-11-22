@@ -36,7 +36,7 @@
 <details open>
 <summary><strong>Featured Open Source Contributions</strong></summary>
 
-<p><strong>7 merged PRs across 5 open source projects.</strong></p>
+<p><strong>14 merged PRs across 7 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -44,9 +44,27 @@
       <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a></strong>&nbsp;
       <a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenMausBot GitHub stars" height="18"></a>
       <br><br>
-      Added conversation forks that preserve history and attachments, optimized message history pagination, and kept automation question cards in sync after users continued a run as a regular chat.
+      Added conversation forks and bot budget reporting, kept automation question cards in sync, and sped up message history pagination and bot reply lookups. Added Linux npm updates with rollback and workspace exports that recover after proxy timeouts.
       <br><br>
-      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 3 merged PRs →</a>
+      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 7 merged PRs →</a>
+    </td>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></strong>&nbsp;
+      <a href="https://github.com/opensandbox-group/OpenSandbox/stargazers"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenSandbox GitHub stars" height="18"></a>
+      <br><br>
+      Added OTLP/gRPC metrics export for Go services and sped up file search by reading metadata only for matching entries.
+      <br><br>
+      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 2 merged PRs →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong><a href="https://github.com/bytedance/deer-flow">deer-flow</a></strong>&nbsp;
+      <a href="https://github.com/bytedance/deer-flow/stargazers"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="deer-flow GitHub stars" height="18"></a>
+      <br><br>
+      Made conversation compaction retry with a configured fallback when a summary hits the model's output limit, preserving the original conversation if summarization fails.
+      <br><br>
+      <a href="https://github.com/bytedance/deer-flow/pull/8437">View PR #8437 →</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/humanfia/humanize">humanize</a></strong>&nbsp;
