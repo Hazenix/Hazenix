@@ -33,10 +33,9 @@
 
 ---
 
-<details open>
-<summary><strong>Featured Open Source Contributions</strong></summary>
+## Currently contributing to
 
-<p><strong>14 merged PRs across 7 open source projects.</strong></p>
+<p><strong>13 merged PRs across 6 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -94,8 +93,6 @@
     </td>
   </tr>
 </table>
-
-</details>
 
 ---
 
