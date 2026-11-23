@@ -35,7 +35,7 @@
 
 ## Currently contributing to
 
-<p><strong>13 merged PRs across 6 open source projects.</strong></p>
+<p><strong>17 merged PRs across 6 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -43,17 +43,17 @@
       <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a></strong>&nbsp;
       <a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenMausBot GitHub stars" height="18"></a>
       <br><br>
-      Added conversation forks and bot budget reporting, kept automation question cards in sync, and sped up message history pagination and bot reply lookups. Added Linux npm updates with rollback and workspace exports that recover after proxy timeouts.
+      Added conversation forks, bot budget reporting, and support for Vault secrets up to 64 KiB. Improved automation card sync, message history performance, Linux npm updates, and workspace export recovery.
       <br><br>
-      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 7 merged PRs →</a>
+      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 8 merged PRs →</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></strong>&nbsp;
       <a href="https://github.com/opensandbox-group/OpenSandbox/stargazers"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenSandbox GitHub stars" height="18"></a>
       <br><br>
-      Added OTLP/gRPC metrics export for Go services and sped up file search by reading metadata only for matching entries.
+      Added OTLP/gRPC metrics export for Go services and tunable HTTP connection pooling for Ingress. Sped up sandbox file searches by avoiding redundant directory scans and metadata lookups.
       <br><br>
-      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 2 merged PRs →</a>
+      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 4 merged PRs →</a>
     </td>
   </tr>
   <tr>
@@ -61,9 +61,9 @@
       <strong><a href="https://github.com/bytedance/deer-flow">deer-flow</a></strong>&nbsp;
       <a href="https://github.com/bytedance/deer-flow/stargazers"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="deer-flow GitHub stars" height="18"></a>
       <br><br>
-      Made conversation compaction retry with a configured fallback when a summary hits the model's output limit, preserving the original conversation if summarization fails.
+      Added fallback retries for conversation summaries that hit the model's output limit. Preserved HTTP status codes from Jina Reader so agents can recognize and act on fetch failures.
       <br><br>
-      <a href="https://github.com/bytedance/deer-flow/pull/8437">View PR #8437 →</a>
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 2 merged PRs →</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/humanfia/humanize">humanize</a></strong>&nbsp;
