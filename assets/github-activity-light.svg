@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Insights for @Hazenix and annual contribution calendar" width="850" height="718" viewBox="0 0 850 718">
   <title>GitHub Insights for @Hazenix</title>
-  <desc>1404 contributions in the last year, 296 stars, 21 day streak. Rank A-.</desc>
+  <desc>1408 contributions in the last year, 296 stars, 22 day streak. Rank A-.</desc>
   <style>
     .mi-name { animation: mi-nameIn 0.9s ease-out both; }
     .mi-underline { animation: mi-barX 0.9s ease-out 0.3s both; transform-box: fill-box; }
@@ -43,8 +43,8 @@
       <line x1="0" y1="45" x2="280" y2="45" stroke="#d0d7de" stroke-width="1" stroke-dasharray="4,3" opacity="0.35" />
       <line x1="0" y1="90" x2="280" y2="90" stroke="#d0d7de" stroke-width="1" opacity="0.6" />
       <g transform="translate(290, 0)">
-        <text y="10" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">279</text>
-        <text y="49" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">140</text>
+        <text y="10" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">283</text>
+        <text y="49" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">142</text>
         <text y="90" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">0</text>
       </g>
       <defs>
@@ -53,19 +53,19 @@
           <stop offset="100%" style="stop-color:#0550ae;stop-opacity:0.05" />
         </linearGradient>
       </defs>
-      <path d="M 0 90 L 0 69.6 L 25.5 57.5 L 50.9 73.6 L 76.4 52.6 L 101.8 45.6 L 127.3 49.7 L 152.7 60.4 L 178.2 65.5 L 203.6 57.7 L 229.1 79.5 L 254.5 76 L 280 15 L 280 90 Z" fill="url(#headerArea-17wdrr)" />
-      <path class="mi-chart" d="M 0 69.6 L 25.5 57.5 L 50.9 73.6 L 76.4 52.6 L 101.8 45.6 L 127.3 49.7 L 152.7 60.4 L 178.2 65.5 L 203.6 57.7 L 229.1 79.5 L 254.5 76 L 280 15" fill="none" stroke="#0550ae" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
-      <circle cx="0" cy="69.6" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="25.5" cy="57.5" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="50.9" cy="73.6" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="76.4" cy="52.6" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="101.8" cy="45.6" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="127.3" cy="49.7" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="152.7" cy="60.4" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="178.2" cy="65.5" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="203.6" cy="57.7" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="229.1" cy="79.5" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="254.5" cy="76" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <path d="M 0 90 L 0 69.9 L 25.5 57.9 L 50.9 73.8 L 76.4 53.2 L 101.8 46.3 L 127.3 50.2 L 152.7 60.8 L 178.2 65.9 L 203.6 58.2 L 229.1 79.7 L 254.5 76.2 L 280 15 L 280 90 Z" fill="url(#headerArea-17wdrr)" />
+      <path class="mi-chart" d="M 0 69.9 L 25.5 57.9 L 50.9 73.8 L 76.4 53.2 L 101.8 46.3 L 127.3 50.2 L 152.7 60.8 L 178.2 65.9 L 203.6 58.2 L 229.1 79.7 L 254.5 76.2 L 280 15" fill="none" stroke="#0550ae" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="0" cy="69.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="25.5" cy="57.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="50.9" cy="73.8" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="76.4" cy="53.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="101.8" cy="46.3" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="127.3" cy="50.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="152.7" cy="60.8" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="178.2" cy="65.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="203.6" cy="58.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="229.1" cy="79.7" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="254.5" cy="76.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
       <circle cx="280" cy="15" r="4.5" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
       <g transform="translate(0, 104)">
         <text x="0" y="0" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">Dec '25</text>
@@ -94,12 +94,12 @@
         <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">296</text>
       </g>
       <g transform="translate(0, 27)">
-        <title>Contributions (12mo): 1,404</title>
+        <title>Contributions (12mo): 1,408</title>
         <g transform="translate(0, 0) scale(1)">
           <path fill="#34d399" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" />
         </g>
         <text x="26" y="12" font-size="13" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Contributions (12mo)</text>
-        <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1,404</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1,408</text>
       </g>
       <g transform="translate(0, 54)">
         <title>Pull Requests (12mo): 67</title>
@@ -216,7 +216,7 @@
   </g>
   <g class="mi-card mi-d3" transform="translate(40, 390)">
     <g transform="translate(0, 0)">
-      <title>Total contributions: 1,492</title>
+      <title>Total contributions: 1,496</title>
       <rect x="0" y="0" width="246" height="140" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1" stroke-opacity="0.85" />
       <rect x="105" y="14" width="36" height="36" rx="10" fill="#0550ae" opacity="0.12" />
       <g transform="translate(123, 24)">
@@ -225,7 +225,7 @@
         </g>
       </g>
       <text x="123" y="74" text-anchor="middle" font-size="26" font-weight="700" fill="#0550ae" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
-          1,492
+          1,496
         </text>
       <text x="123" y="98" text-anchor="middle" font-size="12" font-weight="600" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
           Total Contributions
@@ -235,25 +235,25 @@
         </text>
     </g>
     <g transform="translate(262, 0)">
-      <title>Current streak: 21 days</title>
+      <title>Current streak: 22 days</title>
       <rect x="0" y="0" width="246" height="140" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1" stroke-opacity="0.85" />
       <g transform="translate(123, 58)">
         <circle cx="0" cy="0" r="32" fill="none" stroke="#d0d7de" stroke-width="5" opacity="0.3" />
-        <circle cx="0" cy="0" r="32" fill="none" stroke="#0550ae" stroke-width="5" stroke-dasharray="201.1" stroke-dashoffset="60.3" transform="rotate(-90)" stroke-linecap="round" />
+        <circle cx="0" cy="0" r="32" fill="none" stroke="#0550ae" stroke-width="5" stroke-dasharray="201.1" stroke-dashoffset="53.6" transform="rotate(-90)" stroke-linecap="round" />
         <g transform="translate(-10, -42)">
           <g transform="translate(0, 0) scale(1.25)">
             <path fill="#ff6b35" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.79 2.79 0 01-1.436-.874A3.198 3.198 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z" />
           </g>
         </g>
         <text x="0" y="8" text-anchor="middle" font-size="22" font-weight="700" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
-            21
+            22
           </text>
       </g>
       <text x="123" y="108" text-anchor="middle" font-size="12" font-weight="600" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
           Current Streak
         </text>
       <text x="123" y="126" text-anchor="middle" font-size="10" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" opacity="0.75" letter-spacing="0.2">
-          Nov 6 - Nov 26, 2026
+          Nov 6 - Nov 27, 2026
         </text>
     </g>
     <g transform="translate(524, 0)">
@@ -594,6 +594,7 @@
     <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-06" x="615" y="80" width="10" height="10" />
     <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-13" x="627" y="80" width="10" height="10" />
     <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-20" x="639" y="80" width="10" height="10" />
+    <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-27" x="651" y="80" width="10" height="10" />
     <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-11-29" x="27" y="92" width="10" height="10" />
     <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2025-12-06" x="39" y="92" width="10" height="10" />
     <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2025-12-13" x="51" y="92" width="10" height="10" />
