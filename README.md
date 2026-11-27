@@ -35,7 +35,7 @@
 
 ## Currently contributing to
 
-<p><strong>23 merged PRs across 8 open source projects.</strong></p>
+<p><strong>29 merged PRs across 8 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -43,9 +43,9 @@
       <strong><a href="https://github.com/milind-soni/OpenMausBot">OpenMausBot</a></strong>&nbsp;
       <a href="https://github.com/milind-soni/OpenMausBot/stargazers"><img src="https://img.shields.io/github/stars/milind-soni/OpenMausBot?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="OpenMausBot GitHub stars" height="18"></a>
       <br><br>
-      Added conversation forks, bot budget reporting, and support for Vault secrets up to 64 KiB. Improved automation card sync, message history performance, Linux npm updates, and workspace export recovery.
+      Added conversation forks and a <code>/fork</code> command, configurable OpenRouter models for memory upkeep, bot usage reporting, and support for larger Vault secrets. Improved Bot Library file lookups, message history, automation sync, Linux updates, and workspace export recovery.
       <br><br>
-      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 8 merged PRs →</a>
+      <a href="https://github.com/milind-soni/OpenMausBot/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 11 merged PRs →</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></strong>&nbsp;
@@ -61,17 +61,17 @@
       <strong><a href="https://github.com/bytedance/deer-flow">deer-flow</a></strong>&nbsp;
       <a href="https://github.com/bytedance/deer-flow/stargazers"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="deer-flow GitHub stars" height="18"></a>
       <br><br>
-      Skipped unnecessary message history serialization in <code>chat()</code>, added fallback retries for truncated conversation summaries, and preserved Jina Reader HTTP error codes for agents.
+      Added file attachments to queued Web messages and fixed prompt editing and reruns after long runs. Reduced message history serialization in <code>chat()</code>, retried truncated summaries, and preserved Jina Reader HTTP error codes.
       <br><br>
-      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 3 merged PRs →</a>
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 5 merged PRs →</a>
     </td>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/NevaMind-AI/memU">memU</a></strong>&nbsp;
       <a href="https://github.com/NevaMind-AI/memU/stargazers"><img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="memU GitHub stars" height="18"></a>
       <br><br>
-      Sped up batch resource commits by matching all submitted URLs in one pass over existing resources.
+      Sped up URL matching for batch resource commits and fixed cleanup of query extraction process trees on macOS, Linux, and Windows.
       <br><br>
-      <a href="https://github.com/NevaMind-AI/memU/pull/820">View PR #820 →</a>
+      <a href="https://github.com/NevaMind-AI/memU/pulls?q=is%3Apr+author%3AHazenix+is%3Amerged">View 2 merged PRs →</a>
     </td>
   </tr>
   <tr>
