@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub Insights for @Hazenix and annual contribution calendar" width="850" height="718" viewBox="0 0 850 718">
   <title>GitHub Insights for @Hazenix</title>
-  <desc>1408 contributions in the last year, 296 stars, 22 day streak. Rank A-.</desc>
+  <desc>1409 contributions in the last year, 296 stars, 22 day streak. Rank A-.</desc>
   <style>
     .mi-name { animation: mi-nameIn 0.9s ease-out both; }
     .mi-underline { animation: mi-barX 0.9s ease-out 0.3s both; transform-box: fill-box; }
@@ -43,7 +43,7 @@
       <line x1="0" y1="45" x2="280" y2="45" stroke="#d0d7de" stroke-width="1" stroke-dasharray="4,3" opacity="0.35" />
       <line x1="0" y1="90" x2="280" y2="90" stroke="#d0d7de" stroke-width="1" opacity="0.6" />
       <g transform="translate(290, 0)">
-        <text y="10" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">283</text>
+        <text y="10" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">284</text>
         <text y="49" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">142</text>
         <text y="90" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">0</text>
       </g>
@@ -53,19 +53,19 @@
           <stop offset="100%" style="stop-color:#0550ae;stop-opacity:0.05" />
         </linearGradient>
       </defs>
-      <path d="M 0 90 L 0 69.9 L 25.5 57.9 L 50.9 73.8 L 76.4 53.2 L 101.8 46.3 L 127.3 50.2 L 152.7 60.8 L 178.2 65.9 L 203.6 58.2 L 229.1 79.7 L 254.5 76.2 L 280 15 L 280 90 Z" fill="url(#headerArea-17wdrr)" />
-      <path class="mi-chart" d="M 0 69.9 L 25.5 57.9 L 50.9 73.8 L 76.4 53.2 L 101.8 46.3 L 127.3 50.2 L 152.7 60.8 L 178.2 65.9 L 203.6 58.2 L 229.1 79.7 L 254.5 76.2 L 280 15" fill="none" stroke="#0550ae" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M 0 90 L 0 69.9 L 25.5 58 L 50.9 73.9 L 76.4 53.3 L 101.8 46.4 L 127.3 50.4 L 152.7 61 L 178.2 66 L 203.6 58.3 L 229.1 79.7 L 254.5 76.3 L 280 15 L 280 90 Z" fill="url(#headerArea-17wdrr)" />
+      <path class="mi-chart" d="M 0 69.9 L 25.5 58 L 50.9 73.9 L 76.4 53.3 L 101.8 46.4 L 127.3 50.4 L 152.7 61 L 178.2 66 L 203.6 58.3 L 229.1 79.7 L 254.5 76.3 L 280 15" fill="none" stroke="#0550ae" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
       <circle cx="0" cy="69.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="25.5" cy="57.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="50.9" cy="73.8" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="76.4" cy="53.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="101.8" cy="46.3" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="127.3" cy="50.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="152.7" cy="60.8" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="178.2" cy="65.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="203.6" cy="58.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="25.5" cy="58" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="50.9" cy="73.9" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="76.4" cy="53.3" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="101.8" cy="46.4" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="127.3" cy="50.4" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="152.7" cy="61" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="178.2" cy="66" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="203.6" cy="58.3" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
       <circle cx="229.1" cy="79.7" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
-      <circle cx="254.5" cy="76.2" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
+      <circle cx="254.5" cy="76.3" r="3" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
       <circle cx="280" cy="15" r="4.5" fill="#0550ae" stroke="#ffffff" stroke-width="1.5" />
       <g transform="translate(0, 104)">
         <text x="0" y="0" font-size="9" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="middle">Dec '25</text>
@@ -94,12 +94,12 @@
         <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">296</text>
       </g>
       <g transform="translate(0, 27)">
-        <title>Contributions (12mo): 1,408</title>
+        <title>Contributions (12mo): 1,409</title>
         <g transform="translate(0, 0) scale(1)">
           <path fill="#34d399" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z" />
         </g>
         <text x="26" y="12" font-size="13" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Contributions (12mo)</text>
-        <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1,408</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">1,409</text>
       </g>
       <g transform="translate(0, 54)">
         <title>Pull Requests (12mo): 67</title>
@@ -110,12 +110,12 @@
         <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">67</text>
       </g>
       <g transform="translate(0, 81)">
-        <title>Issues (12mo): 20</title>
+        <title>Issues (12mo): 21</title>
         <g transform="translate(0, 0) scale(1)">
           <path fill="#f472b6" d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z" />
         </g>
         <text x="26" y="12" font-size="13" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">Issues (12mo)</text>
-        <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">20</text>
+        <text x="230" y="12" font-size="14" font-weight="600" fill="#24292f" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" text-anchor="end" letter-spacing="0.2">21</text>
       </g>
       <g transform="translate(0, 108)">
         <title>Contributed To (12mo): 47</title>
@@ -216,7 +216,7 @@
   </g>
   <g class="mi-card mi-d3" transform="translate(40, 390)">
     <g transform="translate(0, 0)">
-      <title>Total contributions: 1,496</title>
+      <title>Total contributions: 1,497</title>
       <rect x="0" y="0" width="246" height="140" rx="14" fill="#ffffff" stroke="#d0d7de" stroke-width="1" stroke-opacity="0.85" />
       <rect x="105" y="14" width="36" height="36" rx="10" fill="#0550ae" opacity="0.12" />
       <g transform="translate(123, 24)">
@@ -225,7 +225,7 @@
         </g>
       </g>
       <text x="123" y="74" text-anchor="middle" font-size="26" font-weight="700" fill="#0550ae" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="-0.2">
-          1,496
+          1,497
         </text>
       <text x="123" y="98" text-anchor="middle" font-size="12" font-weight="600" fill="#57606a" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" letter-spacing="0.3">
           Total Contributions
@@ -647,6 +647,7 @@
     <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-07" x="615" y="92" width="10" height="10" />
     <rect style="fill:#c6e48b;shape-rendering:crispedges;" data-score="1" data-date="2026-11-14" x="627" y="92" width="10" height="10" />
     <rect style="fill:#196127;shape-rendering:crispedges;" data-score="4" data-date="2026-11-21" x="639" y="92" width="10" height="10" />
+    <rect style="fill:#eeeeee;shape-rendering:crispedges;" data-score="0" data-date="2026-11-28" x="651" y="92" width="10" height="10" />
     <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="28">Sun</text>
     <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;" x="0" y="40">Mon</text>
     <text style="fill:#767676;text-anchor:start;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';white-space:nowrap;font-size:9px;display:none;" x="0" y="52">Tue</text>
