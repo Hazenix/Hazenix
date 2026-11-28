@@ -35,7 +35,7 @@
 
 ## Currently contributing to
 
-<p><strong>29 merged PRs across 8 open source projects.</strong></p>
+<p><strong>30 merged PRs across 9 open source projects.</strong></p>
 
 <table>
   <tr>
@@ -76,6 +76,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <strong><a href="https://github.com/HKUDS/Vibe-Trading">Vibe-Trading</a></strong>&nbsp;
+      <a href="https://github.com/HKUDS/Vibe-Trading/stargazers"><img src="https://img.shields.io/github/stars/HKUDS/Vibe-Trading?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="Vibe-Trading GitHub stars" height="18"></a>
+      <br><br>
+      Added a copy button for user prompts in Web chat so long prompts can be copied without selecting text inside the scrollable message.
+      <br><br>
+      <a href="https://github.com/HKUDS/Vibe-Trading/pull/2383">View PR #2383 →</a>
+    </td>
+    <td width="50%" valign="top">
       <strong><a href="https://github.com/apache/dubbo-go">Apache Dubbo-go</a></strong>&nbsp;
       <a href="https://github.com/apache/dubbo-go/stargazers"><img src="https://img.shields.io/github/stars/apache/dubbo-go?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="Apache Dubbo-go GitHub stars" height="18"></a>
       <br><br>
@@ -83,6 +91,8 @@
       <br><br>
       <a href="https://github.com/apache/dubbo-go/pull/3842">View PR #3842 →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/humanfia/humanize">humanize</a></strong>&nbsp;
       <a href="https://github.com/humanfia/humanize/stargazers"><img src="https://img.shields.io/github/stars/humanfia/humanize?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="humanize GitHub stars" height="18"></a>
@@ -91,8 +101,6 @@
       <br><br>
       <a href="https://github.com/humanfia/humanize/pull/550">View PR #550 →</a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/wechatsync/Wechatsync">Wechatsync</a></strong>&nbsp;
       <a href="https://github.com/wechatsync/Wechatsync/stargazers"><img src="https://img.shields.io/github/stars/wechatsync/Wechatsync?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="Wechatsync GitHub stars" height="18"></a>
@@ -101,6 +109,8 @@
       <br><br>
       <a href="https://github.com/wechatsync/Wechatsync/pull/238">View PR #238 →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <strong><a href="https://github.com/barkure/CSU-Net-Portal">CSU-Net-Portal</a></strong>&nbsp;
       <a href="https://github.com/barkure/CSU-Net-Portal/stargazers"><img src="https://img.shields.io/github/stars/barkure/CSU-Net-Portal?style=flat-square&amp;label=stars&amp;labelColor=30363d&amp;color=30363d" alt="CSU-Net-Portal GitHub stars" height="18"></a>
@@ -109,6 +119,7 @@
       <br><br>
       <a href="https://github.com/barkure/CSU-Net-Portal/pull/12">View PR #12 →</a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
